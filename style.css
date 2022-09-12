@@ -1,0 +1,15 @@
+#main_title{
+  color: navy;
+  font-size: 30px;
+  text-align: center;
+}
+.main_class_1{
+  background-color: lemonchiffon;
+}
+.news > article > h2 {
+  font-size: 24px;
+}
+.characters > article > h2{
+  font-size: 26px;
+  color: #581845;
+}
